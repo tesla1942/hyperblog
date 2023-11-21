@@ -2,26 +2,15 @@ body
 {
     color: #333;
     text-align: center;
-    font-family: courier;
+    font-family: "Arial";
     font-size: 16px;
     margin: 0;
     padding: 0;
 }
-#cabecera{
-background-color: blue;
--webkit-box-shadow: 50px 10px 10px 0px rgba(0,0,0,0.75);
--moz-box-shadow: 50px 10px 10px 0px rgba(0,0,0,0.75);
-box-shadow: 50px 10px 10px 0px rgba(0,0,0,0.75);
-color: white;
-font-weight: bold;
-margin: 0;
-padding: 0.5em;
-}
 #container
 {
     width: 70%;
-    padding: 0;
-
+    padding: 1em;
     text-align: left;
     border: 1px solid #DDD;
     margin: 0 auto;
@@ -30,7 +19,4 @@ padding: 0.5em;
 #container h1
 {
     font-size: 20px;
-}
-#post{
-padding: 1em;
 }
